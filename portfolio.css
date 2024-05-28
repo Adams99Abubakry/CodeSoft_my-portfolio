@@ -140,4 +140,6 @@ body {
     position: relative;
     width: 100%;
   }
-  
+  #moreText {
+    display: none;
+}
